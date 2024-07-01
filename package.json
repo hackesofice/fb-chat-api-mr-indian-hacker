@@ -1,5 +1,5 @@
 {
-	"name": "fb-chat-api-temp",
+	"name": "fb-chat-api-mr-indian-hacker",
 	"version": "1.0.4",
 	"description": "A Facebook chat API that doesn't rely on XMPP",
 	"scripts": {
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ntkhang03/fb-chat-api-temp.git"
+		"url": "https://github.com/hackesofice/fb-chat-api-mr-indian-hacker.git"
 	},
 	"keywords": [
 		"facebook",
@@ -17,12 +17,13 @@
 		"api",
 		"fca",
 		"fb-chat-api",
-		"fb-chat-api-temp"
+		"fb-chat-api-temp",
+		"fb-chat-api-mr-indian-hacker"
 	],
 	"bugs": {
-		"url": "https://github.com/ntkhang03/fb-chat-api-temp/issues"
+		"url": "https://github.com/hackesofice/fb-chat-api-mr-indian-hacker/issues"
 	},
-	"author": "Avery, David, Maude, Benjamin, UIRI, NTKhang (rebuild)",
+	"author": "Avery, David, Maude, Benjamin, UIRI, NTKhang (rebuild), MRindianHacker (Improved)",
 	"license": "MIT",
 	"dependencies": {
 		"https-proxy-agent": "^4.0.0",
